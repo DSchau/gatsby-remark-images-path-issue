@@ -1,0 +1,52 @@
+{
+  "assetsByChunkName": {
+    "commons": [
+      "commons-6bf57902d7453db0f14d.js",
+      "commons-6bf57902d7453db0f14d.js.map"
+    ],
+    "layout-component---index": [
+      "layout-component---index-2ceb6af3c039a2263a51.js",
+      "layout-component---index-2ceb6af3c039a2263a51.js.map"
+    ],
+    "path---sample-issue-html": [
+      "path---sample-issue-html-7ed25b8ccf58c63b2ff6.js",
+      "path---sample-issue-html-7ed25b8ccf58c63b2ff6.js.map"
+    ],
+    "path---page-2": [
+      "path---page-2-586c7e095e534a3909ec.js",
+      "path---page-2-586c7e095e534a3909ec.js.map"
+    ],
+    "path---index": [
+      "path---index-66ae7c58368b21399fea.js",
+      "path---index-66ae7c58368b21399fea.js.map"
+    ],
+    "path---404": [
+      "path---404-586c7e095e534a3909ec.js",
+      "path---404-586c7e095e534a3909ec.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-586c7e095e534a3909ec.js",
+      "path---404-html-586c7e095e534a3909ec.js.map"
+    ],
+    "page-component---src-templates-blog-post-js": [
+      "page-component---src-templates-blog-post-js-434fa7b171f16b0ab47a.js",
+      "page-component---src-templates-blog-post-js-434fa7b171f16b0ab47a.js.map"
+    ],
+    "page-component---src-pages-page-2-js": [
+      "page-component---src-pages-page-2-js-c4c27247fed8e1e204c5.js",
+      "page-component---src-pages-page-2-js-c4c27247fed8e1e204c5.js.map"
+    ],
+    "page-component---src-pages-index-js": [
+      "page-component---src-pages-index-js-63afa9b8a21c0c487a08.js",
+      "page-component---src-pages-index-js-63afa9b8a21c0c487a08.js.map"
+    ],
+    "page-component---src-pages-404-js": [
+      "page-component---src-pages-404-js-f555dc6d19c896ccbe44.js",
+      "page-component---src-pages-404-js-f555dc6d19c896ccbe44.js.map"
+    ],
+    "app": [
+      "app-ef1c987ca2bd29513286.js",
+      "app-ef1c987ca2bd29513286.js.map"
+    ]
+  }
+}
